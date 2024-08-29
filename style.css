@@ -1,0 +1,9 @@
+/* Mengatur tinggi minimum container agar selalu memenuhi layar */
+.min-vh-100 {
+    min-height: 100vh;
+}
+
+/* Menambahkan margin pada card-header */
+.card-header {
+    margin-bottom: 1rem;
+}
